@@ -1,3 +1,7 @@
+/*
+registerUser -> 회원가입. 아이디 중복 시 예외처리
+ */
+
 package com.antaehoo.handwriting.service;
 
 import com.antaehoo.handwriting.repository.User;

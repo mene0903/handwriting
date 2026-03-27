@@ -1,3 +1,7 @@
+/*
+JpaRepository -> DB 저장
+ */
+
 package com.antaehoo.handwriting.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;

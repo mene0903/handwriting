@@ -1,3 +1,7 @@
+/*
+MySql DB Entity (user)
+ */
+
 package com.antaehoo.handwriting.repository;
 
 import jakarta.persistence.*;
